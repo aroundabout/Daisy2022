@@ -1,0 +1,21 @@
+.ant-layout {
+  background: #ffffff;
+}
+
+.ant-layout-header {
+  background: #1d39c4;
+  border-radius: 10px !important;
+  border: 2px solid #d9d9d9;
+}
+
+.ant-list-items {
+  background-color: #ffffff;
+}
+
+.ant-list-item {
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+  border-radius: 10px !important;
+  padding: 10px;
+  border: 2px solid #d9d9d9;
+}
